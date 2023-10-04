@@ -1,0 +1,66 @@
+{
+  "AlteracaoDadosCadastrais": {
+    "codigoAdesao": "70017481",
+    "endereco": {
+      "bairro": "PARQUE DO OTERO",
+      "cep": 5823070,
+      "cidade": "SAO PAULO",
+      "complemento": " ",
+      "estado": "SP",
+      "logradouro": "R JOSE RODRIGUES MACIEL",
+      "numero": "39"
+    },
+    "informacoesPessoais": {
+      "dataEmissao": "Date(1604286000000-0300)",
+      "dataNascimento": "Date(247284000000-0200)",
+      "documentoIdentificacao": "CARTEIRA DE MOTORISTA",
+      "enderecoEletronico": " ",
+      "estadoCivil": 1,
+      "grauInstrucao": 7,
+      "nacionalidade": "BRASILEIRA",
+      "naturalidade": "SAO PAULO",
+      "nome": "MARCOS RODRIGUES DOS SANTOS",
+      "nomeConjuge": " ",
+      "nomeMae": "MARIA AUXILIADORA",
+      "nomePai": "MOIZES TRINDADE",
+      "numeroDocumento": "2030405060",
+      "orgaoEmissor": "SSP",
+      "sexo": "M",
+      "uf": "SP",
+      "ufEmissor": "SP"
+    },
+    "situacaoFuncional": 42,
+    "telefones": [
+      {
+        "ddd": 11,
+        "telefone": 947214129,
+        "tipo": 1
+      },
+      {
+        "ddd": 11,
+        "telefone": 947214129,
+        "tipo": 1
+      },
+      {
+        "ddd": 11,
+        "telefone": 55102084,
+        "tipo": 2
+      }
+    ]
+  },
+  "RetornoAnaliseDocumental": {
+    "ConsultaSerpro": "N",
+    "DevolucaoSerproPercentual": 0,
+    "ResultadoFaceMatchPercentual": 0,
+    "RetornoAnaliseDataTrust": null,
+    "codigoAdesao": "70017481",
+    "documentosPendenciados": null,
+    "identificadorExterno": "e489b68d-c5c0-40b0-8726-8fa3f240ecae",
+    "motivosCancelamento": null,
+    "observacaoAnalista": "Proposta Pendente: Processo de aprovação automática. (MetaBusca) (Número de tentativas excedido)",
+    "tipoRetorno": "Pendenciar"
+  },
+  "RetornoCidadeOfensora": null,
+  "RetornoClienteVulneravel": null,
+  "numeroProposta": "42650"
+}
